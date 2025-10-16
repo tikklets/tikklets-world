@@ -34,7 +34,9 @@ The projects are typically organized by their primary technology or focus area. 
 |   |   |
 |---|---|
 |**Platform**|**Link**|
-|**GitHub Profile**|https://github.com/tikklets|
-|**Youtube Channel**|https://www.youtube.com/@tikklets|
+|**GitHub Profile**|[tikklets](https://github.com/tikklets)|
+|**Youtube Channel**|[@tikklets](https://www.youtube.com/@tikklets)|
+
+...
 
 **Happy Tikkling!**
