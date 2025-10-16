@@ -31,11 +31,10 @@ The projects are typically organized by their primary technology or focus area. 
 
 ### 🔗 Connect with Me
 
-|   |   |
-|---|---|
-|**Platform**|**Link**|
-|**GitHub Profile**|[tikklets](https://github.com/tikklets)|
-|**Youtube Channel**|[@tikklets](https://www.youtube.com/@tikklets)|
+| **Platform**        |  **Link**                                      |
+| ------------------- | ---------------------------------------------- |
+| **GitHub Profile**  | [tikklets](https://github.com/tikklets)        |
+| **Youtube Channel** | [@tikklets](https://www.youtube.com/@tikklets) |
 
 ...
 
